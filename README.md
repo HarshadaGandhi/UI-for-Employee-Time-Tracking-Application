@@ -29,6 +29,9 @@ The AI Enhanced Employee Time Tracking System (GEN-O-CLOCK) is a user-friendly a
 **Clients:**
 -Manage client details and export project reports.
 
+### Tools Used
+- **Figma**: Used for designing the UI and visual layout of the Employee Time Tracking System.
+
 **UI Screens**
 -Sign In/Sign Up: Simple user authentication with the option to recover forgotten passwords.
 -Time Tracking Dashboard: Track hours spent on various projects with options to view today's, this week's, and last week's work summaries.
